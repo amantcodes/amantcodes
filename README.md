@@ -3,8 +3,8 @@
 
 ```js
 const aman = {
+  stack: ["Python", "JavaScript", "AWS", "whatever works at 3 AM"],
   currentlyLearning: "how to center a div (again)",
   motto: "It works on my machine ™",
 };
 ```
-
